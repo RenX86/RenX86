@@ -112,7 +112,7 @@ fun_fact: "I blend biology with code and creativity! 🧬💻🎨"
 
 <!-- GitHub Stats Cards -->
 <a href="https://github.com/RenX86">
-  <img src="https://github-readme-stats.vercel.app/api?username=RenX86&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RenX86&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats" />
 </a>
 <a href="https://github.com/RenX86">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenX86&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
