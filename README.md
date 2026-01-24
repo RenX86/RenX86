@@ -45,11 +45,12 @@ Hello! I'm a passionate **Bioinformatics** student with a knack for data analysi
 
   <h4>📊 Data Science & AI</h4>
   <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn,pytorch,matplotlib&theme=dark" />
-    </a>
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+    <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Sklearn" />
     <br/>
-    <br/>
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+    <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
     <img src="https://img.shields.io/badge/Seaborn-7389D8?style=for-the-badge&logoColor=white" alt="Seaborn" />
   </p>
 
@@ -75,8 +76,4 @@ Hello! I'm a passionate **Bioinformatics** student with a knack for data analysi
 <br/>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RenX86&theme=tokyonight&hide_border=true" alt="RenX86's Streak" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=RenX86&label=Profile%20Views&color=774dd7&style=flat-square" alt="Visitor Count" />
 </div>
