@@ -2,16 +2,6 @@
   <h1>Hi there, I'm <a href="https://github.com/RenX86">RenX86</a>! 👋</h1>
   <h3>🧬 MSc Student in Bioinformatics | 📊 Data Analyst | 💻 Developer</h3>
   
-  <p>
-    <a href="mailto:your_email@example.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-    <a href="https://linkedin.com/in/your_profile">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-  </p>
-</div>
-
 ---
 
 ### 👨‍💻 About Me
