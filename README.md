@@ -69,11 +69,10 @@ Hello! I'm a passionate **Bioinformatics** student with a knack for data analysi
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RenX86&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="RenX86's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenX86&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="RenX86's Top Langs" />
-</div>
+| **GitHub Statistics** | **Top Languages** |
+| :---: | :---: |
+| <img src="https://github-readme-stats.vercel.app/api?username=RenX86&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="100%" alt="Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenX86&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="100%" alt="Languages" /> |
 <br/>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RenX86&theme=tokyonight&hide_border=true" alt="RenX86's Streak" />
+  <img src="https://streak-stats.demolab.com/?user=RenX86&theme=tokyonight&hide_border=true" alt="RenX86's Streak" />
 </div>
