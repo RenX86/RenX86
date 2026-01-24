@@ -74,5 +74,5 @@ Hello! I'm a passionate **Bioinformatics** student with a knack for data analysi
 | <img src="https://github-readme-stats.vercel.app/api?username=RenX86&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="100%" alt="Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenX86&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="100%" alt="Languages" /> |
 <br/>
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=RenX86&theme=tokyonight&hide_border=true" alt="RenX86's Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RenX86&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=c0caf5&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
