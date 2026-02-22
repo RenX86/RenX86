@@ -38,6 +38,19 @@ I'm a Bioinformatics graduate student passionate about bridging computational me
 
 <br/>
 
+**Molecular Modeling & Drug Discovery**
+
+![PyMOL](https://img.shields.io/badge/PyMOL-EF3D3D?style=for-the-badge&logoColor=white)
+![AutoDock Vina](https://img.shields.io/badge/AutoDock_Vina-1f6feb?style=for-the-badge&logoColor=white)
+![SwissDock](https://img.shields.io/badge/SwissDock-e63946?style=for-the-badge&logoColor=white)
+![UCSF ChimeraX](https://img.shields.io/badge/ChimeraX-0096c7?style=for-the-badge&logoColor=white)
+![VMD](https://img.shields.io/badge/VMD-2d6a4f?style=for-the-badge&logoColor=white)
+![AlphaFold](https://img.shields.io/badge/AlphaFold-6a0dad?style=for-the-badge&logoColor=white)
+![RoseTTAFold](https://img.shields.io/badge/RoseTTAFold-1b4332?style=for-the-badge&logoColor=white)
+![Avogadro](https://img.shields.io/badge/Avogadro-f4a261?style=for-the-badge&logoColor=white)
+
+<br/>
+
 **Data Science & Machine Learning**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
